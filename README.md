@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá Pessoal! 😉
 
-<!--
-**CiceroGGS/CiceroGGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Cícero, um entusiasta estudante de programação atualmente com foco na stack de back-end. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e desafios para aprimorar minhas habilidades atualmente, estou dedicando meu tempo aos estudos na [@Cubos Academy](https://cubos.academy/), onde venho adquirindo conhecimentos sólidos na área de desenvolvimento back-end. Desde de 2023, tenho trabalhado em diversos projetos utilizando a linguagem Javascript no ambiente de desenvolvimento Node.js utilizando criptografia e conexão com banco de dados. Essas experiências têm me proporcionado uma base sólida para construir soluções eficientes e escaláveis.
 
-Here are some ideas to get you started:
+## ⚠️Conecte-se comigo 🌐:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-guilherme-a9473a260/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cicerog.silvestre@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](31995932587)
+[![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CiceroGGS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Hard Skillis 🚀⚙️:
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+
+ > "A tecnologia move o mundo." - Steve Jobs.
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&theme=tokyonight&custom_title=Top%20%Linguagens)]
