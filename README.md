@@ -16,4 +16,4 @@ Desde 2023, tenho trabalhado em projetos usando JavaScript com Node.js, abordand
 
  > "A tecnologia move o mundo." - Steve Jobs.
 
-[Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&theme=tokyonight&custom_title=Top%20%Linguagens)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&theme=tokyonight&custom_title=Top%20%Linguagens)
