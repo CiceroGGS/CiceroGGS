@@ -1,6 +1,5 @@
 # Olá Pessoal! 😉
-Meu nome é Cícero e sou um entusiasta de programação, focado em backend. Amo tecnologia e estou sempre buscando aprender e enfrentar desafios para aprimorar minhas habilidades. Atualmente, estudo na [@Cubos Academy](https://cubos.academy/), onde estou construindo um conhecimento sólido em desenvolvimento backend.
-Desde 2023, tenho trabalhado em projetos usando JavaScript com Node.js, abordando criptografia e conexão com bancos de dados. Essas experiências têm fortalecido minha capacidade de criar soluções eficientes e escaláveis.
+Meu nome é Cícero e sou um entusiasta de programação, especializado em backend. Sou apaixonado por tecnologia e estou constantemente em busca de aprender e enfrentar novos desafios para aprimorar minhas habilidades. Desde 2023, tenho trabalhado em projetos utilizando JavaScript com Node.js, além de C# e ASP.NET, abordando temas como criptografia e conexão com bancos de dados. Essas experiências têm fortalecido minha capacidade de desenvolver soluções eficientes e escaláveis. Estou sempre aberto a novos desafios e oportunidades para expandir meu conhecimento na área.
 
 ## ⚠️Conecte-se comigo 🌐:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-guilherme-a9473a260/)
