@@ -1,15 +1,10 @@
 # Olá, eu sou o Cícero! 👋
 
-
 ## 🚀 Sobre Mim  
 ## 💻 Estudante de Sistemas de Informação & Desenvolvedor Backend | PUC Minas
 
 Autodidata desde 2023, iniciei minha jornada em tecnologia estudando desenvolvimento backend por conta própria antes de ingressar na PUC Minas em 2025, onde agora combino conhecimento acadêmico com minha paixão por criar sistemas eficientes e resolver problemas complexos, sempre buscando aprender arquiteturas escaláveis, otimização de performance e as melhores práticas do ecossistema backend.
-###🌱 Em Constante Aprendizado  
 
-- Arquiteturas de software escaláveis  
-- Boas práticas de otimização de performance  
-- Novas tecnologias do ecossistema backend
 - 
 ## 💻 Hard Skillis 🚀⚙️:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
