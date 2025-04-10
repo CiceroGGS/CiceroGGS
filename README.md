@@ -1,12 +1,10 @@
 # Olá, eu sou o Cícero! 👋
 
-## 💻 Desenvolvedor Backend Java | Spring Boot | Node.js  
-## 🎓 Estudante de Sistemas de Informação - PUC Minas  
 
 ## 🚀 Sobre Mim  
+## 💻 Estudante de Sistemas de Informação & Desenvolvedor Backend | PUC Minas
 
-Um estudante de Sistemas de Informação na PUC Minas e desenvolvedor backend apaixonado por criar soluções eficientes e resolver problemas complexos. Desde 2023, venho combinando conhecimento acadêmico com experiência prática para desenvolver sistemas robustos.
-
+Autodidata desde 2023, iniciei minha jornada em tecnologia estudando desenvolvimento backend por conta própria antes de ingressar na PUC Minas em 2025, onde agora combino conhecimento acadêmico com minha paixão por criar sistemas eficientes e resolver problemas complexos, sempre buscando aprender arquiteturas escaláveis, otimização de performance e as melhores práticas do ecossistema backend.
 ###🌱 Em Constante Aprendizado  
 
 - Arquiteturas de software escaláveis  
