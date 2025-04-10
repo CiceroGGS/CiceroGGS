@@ -1,5 +1,17 @@
-# Olá Pessoal! 😉
-Meu nome é Cícero e sou um entusiasta de programação, especializado em backend. Sou apaixonado por tecnologia e estou constantemente em busca de aprender e enfrentar novos desafios para aprimorar minhas habilidades. Desde 2023, tenho trabalhado em projetos utilizando JavaScript com Node.js, além de C# e ASP.NET, abordando temas como criptografia e conexão com bancos de dados. Essas experiências têm fortalecido minha capacidade de desenvolver soluções eficientes e escaláveis. Estou sempre aberto a novos desafios e oportunidades para expandir meu conhecimento na área.
+# Olá, eu sou o Cícero! 👋
+
+## 💻 Desenvolvedor Backend Java | Spring Boot | Node.js  
+## 🎓 Estudante de Sistemas de Informação - PUC Minas  
+
+## 🚀 Sobre Mim  
+
+Sou Cícero, estudante de Sistemas de Informação na PUC Minas e desenvolvedor backend apaixonado por criar soluções eficientes e resolver problemas complexos. Desde 2023, venho combinando conhecimento acadêmico com experiência prática para desenvolver sistemas robustos.
+
+### 🌱 Em Constante Aprendizado  
+
+- Arquiteturas de software escaláveis  
+- Boas práticas de otimização de performance  
+- Novas tecnologias do ecossistema backend  
 
 ## ⚠️Conecte-se comigo 🌐:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-guilherme-a9473a260/)
