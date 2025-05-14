@@ -19,4 +19,4 @@ Autodidata desde 2023, iniciei minha jornada em tecnologia estudando desenvolvim
 
  > "A programação é uma arte, e a arte é uma forma de comunicação." – John McCarthy
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&theme=tokyonight&custom_title=Top%20%Linguagens)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&theme=tokyonight&custom_title=Top%20%Linguagens)
