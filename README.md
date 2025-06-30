@@ -1,4 +1,4 @@
-# Olá, eu sou o Cícero! 👋
+# Hello World, I'm Cícero! 👋
 
 ## 🚀 Sobre Mim  
 ## 💻 Estudante de Sistemas de Informação & Desenvolvedor Backend | PUC Minas
