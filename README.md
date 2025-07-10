@@ -5,12 +5,14 @@
 
 Autodidata desde 2023, iniciei minha jornada em tecnologia estudando desenvolvimento backend por conta própria antes de ingressar na PUC Minas em 2025, onde agora combino conhecimento acadêmico com minha paixão por criar sistemas eficientes e resolver problemas complexos, sempre buscando aprender arquiteturas escaláveis, otimização de performance e as melhores práticas do ecossistema backend, além de me aventurar no desenvolvimento Web3 com as linguagens  Solidity e Rust.
 
+
 ## 💻 Hard Skillis 🚀⚙️:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Rust]([https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white))
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
