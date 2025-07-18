@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDxUqORle64/giphy.gif" width="100"/>
-  <h1>Olá, Mundo! Eu sou o Cícero Guilherme! 👋</h1>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Olá%2C+Mundo!+Eu+sou+o+Cícero!;Desenvolvedor+Backend+%26+Web3" alt="Animação de digitação" />
 </div>
 
 <div id="about" align="center">
   <p>
-    Um desenvolvedor Backend apaixonado por tecnologia e estudante de <b>Sistemas de Informação</b> na <b>PUC Minas</b>.
+    Um desenvolvedor apaixonado por tecnologia e estudante de <b>Sistemas de Informação</b> na <b>PUC Minas</b>.
   </p>
 </div>
 
@@ -20,8 +21,6 @@ Estou sempre focado em aprender sobre arquiteturas escaláveis, otimização de 
 ---
 
 ### 💻 Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 <table align="center">
   <tr>
@@ -60,11 +59,15 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas e Atividades no GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CiceroGGS/CiceroGGS/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições">
 </div>
 
 ---
