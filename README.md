@@ -1,26 +1,18 @@
-# Hello World, I'm Cícero! 👋
+🌟 Hello World, I'm Cícero! 👋
+🚀 Sobre Mim
+Estudante de Sistemas de Informação & Desenvolvedor Backend | PUC Minas
+Sou um autodidata apaixonado por tecnologia desde 2023, quando comecei a explorar o desenvolvimento backend por conta própria. Agora, em 2025, estudo Sistemas de Informação na PUC Minas, onde combino conhecimento acadêmico com minha paixão por criar sistemas eficientes e escaláveis. Meu foco está em arquiteturas robustas, otimização de performance e melhores práticas no ecossistema backend. Além disso, estou me aventurando no universo Web3 com Solidity e Rust, sempre buscando inovar e resolver problemas complexos!
+💻 Hard Skills ⚙️
 
-## 🚀 Sobre Mim  
-## 💻 Estudante de Sistemas de Informação & Desenvolvedor Backend | PUC Minas
+🛠️ Projetos em Destaque
 
-Autodidata desde 2023, iniciei minha jornada em tecnologia estudando desenvolvimento backend por conta própria antes de ingressar na PUC Minas em 2025, onde agora combino conhecimento acadêmico com minha paixão por criar sistemas eficientes e resolver problemas complexos, sempre buscando aprender arquiteturas escaláveis, otimização de performance e as melhores práticas do ecossistema backend, além de me aventurar no desenvolvimento Web3 com as linguagens  Solidity e Rust.
+Sistema de Gerenciamento de APIs (Java, Node.js): Desenvolvi uma API RESTful escalável com foco em performance e segurança, integrada com PostgreSQL.
+Exploração Web3 (Solidity, Rust): Trabalhando em contratos inteligentes e experimentando com blockchains descentralizadas.
+Mais projetos no meu GitHub!
 
+🌐 Conecte-se Comigo
 
-## 💻 Hard Skillis 🚀⚙️:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+📊 Minhas Linguagens Favoritas
 
 
-## ⚠️Conecte-se comigo 🌐:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-guilherme-a9473a260/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997389662)
-[![LinkedIn](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CiceroGGS)
-
- > "A programação é uma arte, e a arte é uma forma de comunicação." – John McCarthy
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&theme=tokyonight&custom_title=Top%20%Linguagens)
+"A programação é uma arte, e a arte é uma forma de comunicação." – John McCarthy
