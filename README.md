@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDxUqORle64/giphy.gif" width="100"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+Eu+sou+o+Cícero!;Software+Engineer+%26" alt="Animação de digitação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+Eu+sou+o+Cícero!;Desenvolver+Backend" alt="Animação de digitação" />
 </div>
 
 <div id="about" align="center">
