@@ -61,14 +61,14 @@ Estou sempre focado em aprender sobre arquiteturas escaláveis, otimização de 
 
 ### 📊 Minhas Estatísticas e Atividades no GitHub
 
-<div align="center">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/CiceroGGS/CiceroGGS/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições">
-</div>
+</p>
 
 ---
 
