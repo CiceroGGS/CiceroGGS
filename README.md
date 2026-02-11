@@ -20,87 +20,78 @@ Minha paixão está em criar sistemas eficientes, otimizar performance e aplicar
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Stack Tecnológico
 
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <br><sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-      <br><sub><b>C#</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <br><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <br><sub><b>PostgreSQL</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-      <br><sub><b>Rust</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-      <br><sub><b>Solidity</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-      <br><sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <br><sub><b>Git</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+#### Backend & Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+#### Banco de Dados & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Cícero GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&hide_border=true&title_color=00BFFF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiceroGGS&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=CiceroGGS&theme=tokyonight&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=FF6B6B&currStreakLabel=00BFFF" alt="Cícero streak stats"/>
 </div>
 
 <div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CiceroGGS&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CiceroGGS&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CiceroGGS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Troféus" />
+</div>
+
+---
+
+### 🐍 Contribuições
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/CiceroGGS/CiceroGGS/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cicero-guilherme-a9473a260/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://wa.me/5531997389662" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="https://github.com/CiceroGGS" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cicero-guilherme-a9473a260/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531997389662)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CiceroGGS)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CiceroGGS&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile Views">
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CiceroGGS&color=00BFFF&style=for-the-badge&label=VISITANTES" alt="Profile Views"/>
+</div>
 
-<p align="center">
-  <i>"O código é poesia escrita em lógica, e cada bug é uma oportunidade de aprendizado."</i>
-</p>
+<div align="center">
+  <br>
+  <p><i>"O código é poesia escrita em lógica, e cada bug é uma oportunidade de aprendizado."</i></p>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=42" alt="Footer"/>
+</div>
