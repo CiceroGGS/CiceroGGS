@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDxUqORle64/giphy.gif" width="100"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+Eu+sou+o+Cícero!;Desenvolver+Backend" alt="Animação de digitação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+Eu+sou+o+Cícero!;Desenvolvedor+Backend;Explorando+Web3" alt="Typing Animation" />
 </div>
 
 <div id="about" align="center">
   <p>
-    Um desenvolvedor apaixonado por tecnologia e estudante de <b>Sistemas de Informação</b> na <b>PUC Minas</b>.
+    Desenvolvedor Backend e estudante de <b>Sistemas de Informação</b> na <b>PUC Minas</b>
   </p>
 </div>
 
@@ -14,9 +14,9 @@
 
 ### 🚀 Sobre Mim
 
-Iniciei minha jornada em tecnologia em 2023, de forma autodidata, mergulhando no desenvolvimento backend. Em 2025, ingressei na universidade para unir o conhecimento acadêmico à minha paixão por criar sistemas eficientes e resolver problemas complexos.
+Mergulhei no universo da programação em 2023 como autodidata, focando em desenvolvimento backend. Em 2025, iniciei minha jornada acadêmica em Sistemas de Informação na PUC Minas, unindo teoria e prática para construir soluções robustas e escaláveis.
 
-Estou sempre focado em aprender sobre arquiteturas escaláveis, otimização de performance e as melhores práticas do ecossistema backend. Além disso, me aventuro no universo da **Web3** com Solidity e Rust.
+Minha paixão está em criar sistemas eficientes, otimizar performance e aplicar as melhores práticas de arquitetura de software. Atualmente, também exploro o ecossistema **Web3** com **Solidity** e **Rust**, buscando entender o futuro da tecnologia descentralizada.
 
 ---
 
@@ -44,11 +44,15 @@ Estou sempre focado em aprender sobre arquiteturas escaláveis, otimização de 
   <tr>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-      <br><sub><b>Rust (Web3)</b></sub>
+      <br><sub><b>Rust</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-      <br><sub><b>Solidity (Web3)</b></sub>
+      <br><sub><b>Solidity</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
     </td>
     <td align="center" width="120">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -59,20 +63,25 @@ Estou sempre focado em aprender sobre arquiteturas escaláveis, otimização de 
 
 ---
 
-### 📊 Minhas Estatísticas e Atividades no GitHub
+### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CiceroGGS/CiceroGGS/output/github-contribution-grid-snake.svg" alt="Animação da Cobrinha de Contribuições">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CiceroGGS&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CiceroGGS&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
 
-### 🌐 Onde me Encontrar
+### 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cicero-guilherme-a9473a260/" target="_blank">
@@ -89,5 +98,9 @@ Estou sempre focado em aprender sobre arquiteturas escaláveis, otimização de 
 ---
 
 <p align="center">
-  <i>"A programação é uma arte, e a arte é uma forma de comunicação." – John McCarthy</i>
+  <img src="https://komarev.com/ghpvc/?username=CiceroGGS&color=blueviolet&style=flat-square&label=Visitantes" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>"O código é poesia escrita em lógica, e cada bug é uma oportunidade de aprendizado."</i>
 </p>
