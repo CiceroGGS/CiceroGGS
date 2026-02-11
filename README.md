@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9hDxUqORle64/giphy.gif" width="100"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+Eu+sou+o+Cícero!;Desenvolvedor+Backend;Explorando+Web3" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello%2C+World!+Eu+sou+o+Cícero!;Desenvolvedor+Backend;Aperfeiçoando+Go+%26+Java" alt="Typing Animation" />
 </div>
 
 <div id="about" align="center">
@@ -16,7 +16,7 @@
 
 Mergulhei no universo da programação em 2023 como autodidata, focando em desenvolvimento backend. Em 2025, iniciei minha jornada acadêmica em Sistemas de Informação na PUC Minas, unindo teoria e prática para construir soluções robustas e escaláveis.
 
-Minha paixão está em criar sistemas eficientes, otimizar performance e aplicar as melhores práticas de arquitetura de software. Atualmente, também exploro o ecossistema **Web3** com **Solidity** e **Rust**, buscando entender o futuro da tecnologia descentralizada.
+Minha paixão está em criar sistemas eficientes, otimizar performance e aplicar as melhores práticas de arquitetura de software. Atualmente, estou me aperfeiçoando em **Go** e **Java**, explorando ecossistemas robustos e padrões modernos de desenvolvimento backend.
 
 ---
 
@@ -26,10 +26,10 @@ Minha paixão está em criar sistemas eficientes, otimizar performance e aplicar
 
 #### Backend & Linguagens
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 #### Banco de Dados & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
