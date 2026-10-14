@@ -87,20 +87,17 @@ public class Cicero implements BackendDeveloper {
 ## 📌 Projetos em destaque
 
 <div align="center">
+  <a href="https://github.com/CiceroGGS/microservico-escola-ead">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=microservico-escola-ead&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
+  </a>
+  <a href="https://github.com/CiceroGGS/GopherNet">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=GopherNet&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
+  </a>
   <a href="https://github.com/CiceroGGS/TransactAPI">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=TransactAPI&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
   </a>
   <a href="https://github.com/CiceroGGS/sistema_frente_de_caixa">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=sistema_frente_de_caixa&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-  <a href="https://github.com/CiceroGGS/GreenIT">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=GreenIT&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-  <a href="https://github.com/CiceroGGS/Token-ORT-ERC20">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=Token-ORT-ERC20&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-  <a href="https://github.com/CiceroGGS/blackjack-21-rust">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=blackjack-21-rust&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
   </a>
 </div>
 
@@ -115,10 +112,6 @@ public class Cicero implements BackendDeveloper {
 
 <div align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=CiceroGGS&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ADD8&fire=ED8B00&currStreakLabel=00ADD8"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CiceroGGS&bg_color=0d1117&color=00ADD8&line=ED8B00&point=ffffff&area=true&area_color=00ADD8&hide_border=true"/>
 </div>
 
 ---
