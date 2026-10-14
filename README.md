@@ -107,20 +107,32 @@ public class Cicero implements BackendDeveloper {
 
 ## 📌 Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/CiceroGGS/microservico-escola-ead">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=microservico-escola-ead&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-  <a href="https://github.com/CiceroGGS/GopherNet">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=GopherNet&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-  <a href="https://github.com/CiceroGGS/TransactAPI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=TransactAPI&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-  <a href="https://github.com/CiceroGGS/sistema_frente_de_caixa">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=sistema_frente_de_caixa&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CiceroGGS/microservico-escola-ead">🎓 microservico-escola-ead</a></h3>
+      <p>Microsserviço de autenticação de usuários para uma plataforma de Educação a Distância (EAD): cadastro, login e gestão de contas.</p>
+      <p><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CiceroGGS/GopherNet">🐹 GopherNet</a></h3>
+      <p>Rede social estilo Twitter: API REST com seguidores, publicações e curtidas, login com JWT e senhas com bcrypt, mais um front-end em Go.</p>
+      <p><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CiceroGGS/TransactAPI">💸 TransactAPI</a></h3>
+      <p>API REST para controle financeiro: usuários, categorias e transações, com login, perfil, extratos e filtros.</p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/CiceroGGS/sistema_frente_de_caixa">🛒 sistema_frente_de_caixa</a></h3>
+      <p>API REST que simula o caixa de um mercado, com as operações do dia a dia de vendas.</p>
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -134,6 +146,7 @@ public class Cicero implements BackendDeveloper {
 <div align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=CiceroGGS&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ADD8&fire=ED8B00&currStreakLabel=00ADD8"/>
 </div>
+
 ---
 
 ## 🐍 Contribuições
