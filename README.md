@@ -1,16 +1,15 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ADD8,100:ED8B00&height=180&section=header&text=C%C3%ADcero%20Guilherme&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Java%20%26%20Go&descAlignY=55&descSize=18" width="100%"/>
+  <img src="./assets/header.svg" width="100%" alt="Cícero Guilherme — Java · Go · IA"/>
 
   <a href="https://github.com/CiceroGGS">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=APIs+REST+com+Spring+Boot+%E2%98%95;Microsservi%C3%A7os+cloud-native+com+Quarkus+%E2%9A%A1;Servi%C3%A7os+concorrentes+e+r%C3%A1pidos+em+Go+%F0%9F%90%B9;Sistemas+de+Informa%C3%A7%C3%A3o+%40+PUC+Minas+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&width=700&lines=APIs+REST+com+Spring+Boot+%E2%98%95;Microsservi%C3%A7os+cloud-native+com+Quarkus+%E2%9A%A1;Servi%C3%A7os+concorrentes+em+Go+%F0%9F%90%B9;Integrando+LLMs+em+sistemas+backend+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/cicero-guilherme-a9473a260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=CiceroGGS&color=00ADD8&style=flat-square&label=Visitas"/>
+  <a href="https://www.linkedin.com/in/cicero-guilherme-a9473a260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
@@ -19,34 +18,29 @@
 
 ```java
 @Component
-public class Cicero implements BackendDeveloper {
+public class Cicero implements BackendDeveloper, AiEnthusiast {
 
-    String location   = "Minas Gerais, Brasil 🇧🇷";
-    String education  = "Sistemas de Informação @ PUC Minas (2025 – )";
+    String location    = "Minas Gerais, Brasil 🇧🇷";
+    String education   = "Sistemas de Informação @ PUC Minas (2025 – )";
     String codingSince = "2023, como autodidata";
 
-    List<String> focus = List.of(
-        "Java + Spring Boot",
-        "Java + Quarkus",
-        "Go (Golang)"
-    );
+    List<String> stack = List.of("Java + Spring Boot", "Java + Quarkus", "Go");
 
-    List<String> interests = List.of(
-        "APIs REST", "Microsserviços", "Arquitetura de Software",
-        "Performance", "Clean Code"
+    List<String> exploring = List.of(
+        "Spring AI", "LangChain4j", "RAG", "Embeddings + pgvector", "LLMs locais com Ollama"
     );
 
     @Override
     public String motto() {
-        return "Código é poesia escrita em lógica — cada bug é uma lição.";
+        return "Backend sólido é o que transforma IA em produto.";
     }
 }
 ```
 
 - 🔭 Construindo APIs e microsserviços com **Spring Boot**, **Quarkus** e **Go**
+- 🤖 Explorando como **integrar LLMs em sistemas backend** — RAG, busca vetorial, agentes e tool calling
 - 🌱 Aprofundando em **arquitetura de software**, **testes** e **sistemas distribuídos**
 - 🤝 Aberto a **estágio / júnior backend** e a colaborar em projetos open source
-- 💬 Pode me perguntar sobre **Java, Go, bancos de dados e Docker**
 
 ---
 
@@ -54,23 +48,49 @@ public class Cicero implements BackendDeveloper {
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=spring" height="48"/><br/>
       <b>Spring Boot</b><br/>
-      <sub>Spring Web · Data JPA · Security · Validation</sub>
+      <sub>Web · Data JPA · Security</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://img.shields.io/badge/-Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" height="40"/><br/>
       <b>Quarkus</b><br/>
-      <sub>RESTEasy · Panache · Dev Services · Native</sub>
+      <sub>RESTEasy · Panache · Native</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://skillicons.dev/icons?i=go" height="48"/><br/>
       <b>Go</b><br/>
-      <sub>net/http · goroutines · channels · testing</sub>
+      <sub>net/http · goroutines · channels</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/-IA-A371F7?style=for-the-badge&logo=openai&logoColor=white" height="40"/><br/>
+      <b>IA aplicada</b><br/>
+      <sub>Spring AI · LangChain4j · RAG</sub>
     </td>
   </tr>
 </table>
+
+---
+
+## 🤖 IA + Backend
+
+Meu interesse em IA é do lado de **engenharia**: levar modelos para produção com APIs confiáveis, observáveis e baratas de rodar.
+
+| Área | No Java | No Go |
+|---|---|---|
+| Integração com LLMs | Spring AI · LangChain4j (`quarkus-langchain4j`) | SDKs oficiais · langchaingo |
+| RAG & busca vetorial | Embeddings + PostgreSQL/pgvector | Pipelines de ingestão concorrentes |
+| Modelos locais | Ollama via Spring AI / LangChain4j | Ollama via HTTP |
+| Agentes | Tool calling · structured output | Tool calling · workers em goroutines |
+
+<p>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
 ---
 
@@ -108,7 +128,7 @@ public class Cicero implements BackendDeveloper {
 
 ## 📌 Projetos em destaque
 
-<!-- Troque NOME_DO_REPO pelos nomes reais dos seus repositórios (idealmente 1 Spring, 1 Quarkus, 1 Go) -->
+<!-- Troque NOME_DO_REPO pelos nomes reais. Sugestão: 1 Spring, 1 Quarkus, 1 Go e 1 de IA -->
 <div align="center">
   <a href="https://github.com/CiceroGGS/NOME_DO_REPO_SPRING">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=NOME_DO_REPO_SPRING&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
@@ -119,8 +139,8 @@ public class Cicero implements BackendDeveloper {
   <a href="https://github.com/CiceroGGS/NOME_DO_REPO_GO">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=NOME_DO_REPO_GO&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
   </a>
-  <a href="https://github.com/CiceroGGS/NOME_DO_REPO_4">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=NOME_DO_REPO_4&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00"/>
+  <a href="https://github.com/CiceroGGS/NOME_DO_REPO_IA">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CiceroGGS&repo=NOME_DO_REPO_IA&theme=github_dark&hide_border=true&title_color=A371F7&icon_color=A371F7"/>
   </a>
 </div>
 
@@ -138,7 +158,7 @@ public class Cicero implements BackendDeveloper {
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CiceroGGS&bg_color=0d1117&color=00ADD8&line=ED8B00&point=ffffff&area=true&area_color=00ADD8&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CiceroGGS&bg_color=0d1117&color=00ADD8&line=A371F7&point=ffffff&area=true&area_color=00ADD8&hide_border=true"/>
 </div>
 
 ---
@@ -153,5 +173,6 @@ public class Cicero implements BackendDeveloper {
   </picture>
 </div>
 
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,50:00ADD8,100:0d1117&height=110&section=footer" width="100%"/>
+<div align="center">
+  <sub>☕ + 🐹 + 🤖 — feito com café, goroutines e curiosidade.</sub>
+</div>
