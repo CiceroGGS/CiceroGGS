@@ -127,14 +127,13 @@ public class Cicero implements BackendDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00ADD8&hide=html,css,scss"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CiceroGGS&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&title_color=00ADD8&icon_color=ED8B00&rank_icon=github&hide=issues"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroGGS&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=00ADD8&hide=html,css,scss,solidity&exclude_repo=Token-ORT-ERC20&size_weight=0.5&count_weight=0.5"/>
 </div>
 
 <div align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=CiceroGGS&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00ADD8&fire=ED8B00&currStreakLabel=00ADD8"/>
 </div>
-
 ---
 
 ## 🐍 Contribuições
