@@ -8,15 +8,40 @@ Estudante de Sistemas de Informação na **PUC Minas**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=APIs+REST+com+Spring+Boot;Microsservi%C3%A7os+com+Quarkus;Servi%C3%A7os+concorrentes+em+Go;Backend+com+Node.js" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/cicero-guilherme-a9473a260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:cicerog.silvestre@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/5531997389662"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
 </div>
 
 ---
 
 ## 👨‍💻 Sobre mim
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
+
+<p align="left">
+  Olá! Eu sou o <strong>Cícero Guilherme</strong>, desenvolvedor backend de Minas Gerais.
+  Comecei a programar em 2023 como autodidata e hoje estudo <strong>Sistemas de Informação na PUC Minas</strong>.<br><br>
+  No momento estou focado em <strong>Java com Spring Boot e Quarkus</strong> e em <strong>Go</strong>, construindo APIs REST e microsserviços.
+  Estou aberto a oportunidades de <strong>estágio / júnior backend</strong>.
+</p>
+
+<p align="left">
+  🦄 <strong>Linguagens:</strong> Java, Go, JavaScript (Node.js) e SQL
+</p>
+
+<p align="left">
+  💼 <strong>Ferramentas:</strong> Spring Boot, Quarkus, PostgreSQL, MySQL, MongoDB, Docker, Git, Maven e Claude Code
+</p>
+
+<p align="left">
+  💌 Bora conversar? Me chama por aqui: ⤵️
+</p>
+
+<p align="left">
+  <a href="mailto:cicerog.silvestre@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/cicero-guilherme-a9473a260/" title="LinkedIn"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5531997389662" title="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<br clear="right"/>
 
 ```java
 @Component
@@ -40,11 +65,6 @@ public class Cicero implements BackendDeveloper {
 }
 ```
 
-- 🔭 Construindo APIs e microsserviços com **Spring Boot**, **Quarkus**, **Go** e **Node.js**
-- 🌱 Aprofundando em **arquitetura de software**, **testes** e **sistemas distribuídos**
-- 🤖 Uso **Claude Code** no dia a dia para acelerar o desenvolvimento
-- 🤝 Aberto a **estágio / júnior backend** e a colaborar em projetos open source
-
 ---
 
 ## 🛠️ Stack
@@ -63,6 +83,7 @@ public class Cicero implements BackendDeveloper {
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
